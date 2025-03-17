@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="Image">
+    <file>free-icon-telegram-2111710.png</file>
+    <file>free-icon-telegram-3536705.png</file>
+    <file>free-icon-telephone-symbol-button-25377.png</file>
+    <file>arrow-down-sign-to-navigate.png</file>
+    <file>icon-contact-us.png</file>
+    <file>icon-database.png</file>
+    <file>icon-time-management.png</file>
+    <file>check-mark.png</file>
+    <file>circle_green.png</file>
+    <file>circle_red.png</file>
+    <file>circle_yellow.png</file>
+    <file>Clouse.png</file>
+    <file>free-icon-font-bars-staggered.png</file>
+    <file>free-icon-font-cross.png</file>
+    <file>menu-burger.png</file>
+    <file>move.png</file>
+    <file>right-arrow.png</file>
+    <file>window-minimize.png</file>
+  </qresource>
+</RCC>
